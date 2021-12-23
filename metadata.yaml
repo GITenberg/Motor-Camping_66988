@@ -1,0 +1,22 @@
+_repo: Motor-Camping_66988
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Long, John Cuthbert
+    gutenberg_agent_id: '54063'
+    url: http://www.gutenberg.org/2009/agents/54063
+  - agent_name: Long, John Dietrich
+    gutenberg_agent_id: '54064'
+    url: http://www.gutenberg.org/2009/agents/54064
+description: ''
+gutenberg_issued: '2021-12-21'
+identifiers:
+  gutenberg: '66988'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Motor Camping
+url: http://www.gutenberg.org/ebooks/66988
