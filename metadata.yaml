@@ -1,5 +1,8 @@
 _repo: Motor-Camping_66988
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66988-h/images/frontcover.jpg
 creator:
   authors:
   - agent_name: Long, John Cuthbert
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '54064'
     url: http://www.gutenberg.org/2009/agents/54064
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66988#Motor-Camping
 gutenberg_issued: '2021-12-21'
 identifiers:
   gutenberg: '66988'
